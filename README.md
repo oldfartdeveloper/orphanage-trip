@@ -56,7 +56,7 @@ turn off access in México to avoid (expensive!) roaming charges.
 
 Here's an overview map of the trip:
 
-![overview map](orphanage_overview.jpg)
+![overview map](Orphanage_overview.jpg)
 
 You can see that I've broken this into two stretches:
 
