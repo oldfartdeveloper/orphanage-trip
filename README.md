@@ -1,5 +1,4 @@
 <br />
-<br />
 
 # 2018 Orphanage Trip Driving Instructions
 
