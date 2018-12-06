@@ -378,7 +378,7 @@ route directions in the next section.
     highway starts curving to the right:<br/>
     ![Highway turns right](road_bears_right.jpg)
 1.  *Important!:* Turn **right** on the street where you can see the **Smart & Final**
-    sign:<br/>
+    sign: (there is also a **San Diego** exit sign to help you out)<br/>
     ![Smart & Final Sign](watch_for_smart_and_final_sign.jpg)
 1.  Turn **left** at the **first signal**:<br/>
     ![left signal](left_turn_at_signal_for_fast_pass.jpg)   
