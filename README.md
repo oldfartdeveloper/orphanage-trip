@@ -343,7 +343,8 @@ route directions in the next section.
 1.  Turn right onto **Av. Lázaro Cárdenas**.
 1.  Left at the signal (**Highway 1**).
 1.  Drive **straight** up **Highway 1** for **4.0 miles**.
-1.  You will drive upon a bridge.  Take the right offramp at the end of the bridge.
+1.  You will drive upon a bridge which you'll recognize by the *yellow railing* on the right
+    as shown in the picture.  Take the right offramp at the end of the bridge.
     In the picture, you can see the cloverleaf descending down to the road below:<br/>
     ![Ensenada offramp](ensenada_offramp.jpg)
 1.  Go straight through the first cross street (**Av_dr_Pedro_loyola**):<br/>
