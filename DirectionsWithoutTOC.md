@@ -3,36 +3,6 @@
 
 # 2018 Orphanage Trip Driving Instructions
 
-## Table of Contents
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-
-- [Before We Start](#before-we-start)
-  - [Ways to Use these Instructions](#ways-to-use-these-instructions)
-  - [Things You Need](#things-you-need)
-- [Driving Instructions to Orphanage from Dianne's House](#driving-instructions-to-orphanage-from-diannes-house)
-  - [Overview](#overview)
-  - [Instructions to the Stop Before the Border - McDonalds/Mexican Insurance](#instructions-to-the-stop-before-the-border---mcdonaldsmexican-insurance)
-  - [Crossing the Border](#crossing-the-border)
-    - [If you haven't driven in México before](#if-you-havent-driven-in-m%C3%A9xico-before)
-    - [Turn off roaming in your smartphone](#turn-off-roaming-in-your-smartphone)
-    - [First, Mexican insurance for those that need it:](#first-mexican-insurance-for-those-that-need-it)
-    - [We're going to stop for customs first.](#were-going-to-stop-for-customs-first)
-    - [Starting the Border Crossing - Inspection (Customs)](#starting-the-border-crossing---inspection-customs)
-    - [While in the structure](#while-in-the-structure)
-  - [Driving the Mexican Portion](#driving-the-mexican-portion)
-- [Are You Staying at the Estero Beach Resort?](#are-you-staying-at-the-estero-beach-resort)
-- [Driving Instructions from Orphanage to Estero Beach Resort](#driving-instructions-from-orphanage-to-estero-beach-resort)
-  - [Use Google Maps](#use-google-maps)
-  - [Route Instructions](#route-instructions)
-- [Return Trip for Fast Pass Holders](#return-trip-for-fast-pass-holders)
-  - [Fast Border Return](#fast-border-return)
-    - [Using Google Maps Directly](#using-google-maps-directly)
-    - [Drive to the US Border from Estero Beach Resort](#drive-to-the-us-border-from-estero-beach-resort)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Before We Start
 
 ## Ways to Use these Instructions
