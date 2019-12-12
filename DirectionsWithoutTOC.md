@@ -298,14 +298,21 @@ border crossing time from >3 hours to 20 minutes; well worth it.
 ### Using Google Maps Directly
 
 If you have a cell phone w/ free Mexican roaming service, you can
-click on the following URL or copy and paste it into
+click on either of the following URLs or copy and paste it into
 your smart phone's browser:
+
+Here's the 2018 route which chose the drive right along the border.  It is faster
+but has more turns, some of which are tricky the first time you use it.
 
 https://www.google.com/maps/dir/Unnamed+Road,+Estero+Beach,+22785+Ensenada,+B.C.,+Mexico/32.5364198,-117.0281136/@32.1678603,-117.0850363,10z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x80d89026002c793b:0x4ab09b6cc9e0bcdc!2m2!1d-116.6138712!2d31.7782041!1m0!3e0
 
-1.  They take you from the Estero Beach Hotel's parking lot exit to the **fast pass**
-    gate in Tijuana.
-1.  The recommended route is exactly the one I have taken; it's worked for me.
+For this reason, I was asked to provide this route as well.  This does NOT hug
+the border but is straight through and saves two turns, especially the last turn.
+
+https://www.google.com/maps/dir/Unnamed+Road,+Estero+Beach,+22785+Ensenada,+B.C.,+Mexico/32.5364198,-117.0281136/@32.1601301,-117.1380708,10.11z/data=!4m14!4m13!1m10!1m1!1s0x80d89026002c793b:0x4ab09b6cc9e0bcdc!2m2!1d-116.6138712!2d31.7782041!3m4!1m2!1d-117.0492103!2d32.5343596!3s0x80d949097de116ad:0x3c2e1221b829a16c!1m0!3e0
+
+1.  Either of the above take you from the Estero Beach Hotel's parking lot exit
+    to the **fast pass** gate in Tijuana.
 
 ### Drive to the US Border from Estero Beach Resort
 
@@ -336,27 +343,25 @@ route directions in the next section.
 
 > Enjoy the scenic road.  When you are past the last **(3rd)** toll booth, it will be
 > time to pay attention to the driving instructions again.
+>
+> If you followed these instructions last year (in 2018), you will notice
+> that I've changed the last
+> section to make the navigation easier.
 
 1.  After the last toll booth, in a
     few miles you will notice you are climbing up a hill next to the **US
     border fence**:<br/>
     ![Border Fence](border_fence.jpg)
 1.  You will climb to the top of the hill.
-    As you come down, watch for the **San Diego** offramp:<br/>
-    ![San Diego Exit](san_diego_cloverleaf.jpg)
-1.  You will go up a steep hill again, and then notice you are driving parallel
-    to the **US border** (again):<br/>
-    ![Border Wall](border_wall.jpg)
-1.  Drive 2 miles or so **straight ahead** until the
-    highway starts curving to the right:<br/>
-    ![Highway turns right](road_bears_right.jpg)
-1.  *Important!:* Turn **right** on the street where you can see the **Smart & Final**
-    sign: (there is also a **San Diego** exit sign to help you out)<br/>
-    ![Smart & Final Sign](watch_for_smart_and_final_sign.jpg)
-1.  Turn **left** at the **first signal**:<br/>
-    ![left signal](left_turn_at_signal_for_fast_pass.jpg)   
-1.  *Important!:* You will quickly encounter 5 signs and 3 roads to choose from.  Just
-    take the middle one (**Col. Federal**):<br/>
+    As you come down, watch for the **San Diego** offramp but **DO NOT TAKE IT**;
+    instead **GO STRAIGHT** as indicated by the arrow:<br/>
+    ![San Diego Exit](NoTurnToSanDiego.jpg)
+1.  Continue about 1.5 miles.  You will come to an intersection that another
+    busy road merges onto.  Just keep going straight as shown here:<br/>
+    ![keep going straight](StayOnCalleBenitoJuarez.jpg)
+1.  Again continue about 1.5 miles.  Watch for an overpass carrying 5 signs to
+    choose from.  Just take the **middle** one (**Col. Federal**); it is the one
+    with the single lane:<br/>
     ![Fast Pass Entrance](fast_pass_entrance.jpg)
 1.  You will make a long 360 degree circling up onto a bridge.  Keep
     going until you can bear left to a gate as shown here:<br/>
