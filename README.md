@@ -5,7 +5,11 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Before We Start](#before-we-start)
-- [Things You Need](#things-you-need)
+- [Important Reminders](#important-reminders)
+  - [Passport](#passport)
+  - [$12 for Tolls](#12-for-tolls)
+  - [Rain](#rain)
+  - [Mexican Insurance](#mexican-insurance)
 - [Driving Instructions to Orphanage from Dianne's House](#driving-instructions-to-orphanage-from-diannes-house)
   - [Overview](#overview)
   - [Instructions to the Stop Before the Border - McDonalds/Mexican Insurance](#instructions-to-the-stop-before-the-border---mcdonaldsmexican-insurance)
@@ -31,11 +35,23 @@ This document assumes that you do NOT want to use **Google Maps** or **Apple Map
 
 If you would like a much shorter document that helps you use Google Map or Apple Map, try this [document](https://github.com/oldfartdeveloper/orphanage-trip/blob/master/UseGoogleOrAppleMap.md) instead.
 
-## Things You Need
+## Important Reminders
 
-1. **Does everyone in your party have a passport?  If not, now is a good time to go retrieve it!**
-1. **Do you have $12 for tolls charged by the Ensenada Scenic Highway?  $12 covers the cost in both directions.**
-1. **Be sure to buy Mexican insurance *online* before meeting up with the group on Saturday.** Most people in our group buy it from Auto Club.  It is highly recommended that you do not enter Mexico w/o Mexican insurance; if you are in an accident, it is likely that the Mexican authorities will not release you through the border until claims are resolved.
+### Passport
+
+Does everyone in your party have a passport?  If not, now is a good time to go retrieve it!
+
+### $12 for Tolls
+
+Do you have $12 for tolls charged by the Ensenada Scenic Highway?  $12 covers the cost in both directions.
+
+### Rain
+
+Rain is forecast during our trip; make sure your windshield wipers are in good condition and have clothes ready for rain and wind and temperatures in the low 50's.
+
+### Mexican Insurance
+
+Be sure to buy Mexican insurance *online* before meeting up with the group on Saturday. Most people in our group buy it from Auto Club.  It is highly recommended that you do not enter Mexico w/o Mexican insurance; if you are in an accident, it is likely that the Mexican authorities will not release you through the border until claims are solved.
 
 ## Driving Instructions to Orphanage from Dianne's House
 
@@ -55,7 +71,7 @@ You can see that I've broken this into two stretches:
 
 ### Instructions to the Stop Before the Border - McDonalds/Mexican Insurance
 
-Starting point is **Dianne Lundquist's house, 5141 Chateau Circle, Irvine, CA 92604:**
+Starting point is **Dianne Lundquist's house, 5142 Chateau Circle, Irvine, CA 92604:**
 
 1. Use the ways you already know to head south towards **San Diego** (on the **5**
  or **405**; doesn't matter).

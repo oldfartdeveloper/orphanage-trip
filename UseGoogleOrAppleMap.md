@@ -1,3 +1,27 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [2022 Orphanage Trip Driving Instructions](#2022-orphanage-trip-driving-instructions)
+  - [Before We Start](#before-we-start)
+    - [Important Reminders](#important-reminders)
+      - [Passport](#passport)
+      - [$12 for Tolls](#12-for-tolls)
+      - [Rain](#rain)
+    - [Mexican Insurance](#mexican-insurance)
+  - [Driving Instructions to Orphanage from Dianne's House](#driving-instructions-to-orphanage-from-diannes-house)
+    - [Overview](#overview)
+    - [Instructions to the Stop Before the Border - McDonalds/Mexican Insurance](#instructions-to-the-stop-before-the-border---mcdonaldsmexican-insurance)
+    - [Crossing the Border](#crossing-the-border)
+    - [Starting the Border Crossing - Inspection (Customs)](#starting-the-border-crossing---inspection-customs)
+    - [While in the structure](#while-in-the-structure)
+  - [Driving the Mexican Portion](#driving-the-mexican-portion)
+  - [Are You Staying at the Estero Beach Resort](#are-you-staying-at-the-estero-beach-resort)
+  - [Driving Instructions from Orphanage to Estero Beach Resort](#driving-instructions-from-orphanage-to-estero-beach-resort)
+  - [Return Trip for Fast Pass Holders](#return-trip-for-fast-pass-holders)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 2022 Orphanage Trip Driving Instructions
 
 ## Before We Start
@@ -6,11 +30,23 @@ You have chosen the document that assumes you want to use **Google Maps** or **A
 
 However, we will include some turn-by-turn while we're going through Mexico's entry border so that can meet at the desired customs location.
 
-### Things You Need
+### Important Reminders
 
-1. **Does everyone in your party have a passport?  If not, now is a good time to go retrieve it!**
-1. **Do you have $12 for tolls charged by the Ensenada Scenic Highway?  $12 covers the cost in both directions.**
-1. **Be sure to buy Mexican insurance *online* before meeting up with the group on Saturday.** Most people in our group buy it from Auto Club.  It is highly recommended that you do not enter Mexico w/o Mexican insurance; if you are in an accident, it is likely that the Mexican authorities will not release you through the border until claims are solved.
+#### Passport
+
+Does everyone in your party have a passport?  If not, now is a good time to go retrieve it!
+
+#### $12 for Tolls
+
+Do you have $12 for tolls charged by the Ensenada Scenic Highway?  $12 covers the cost in both directions.
+
+#### Rain
+
+Rain is forecast during our trip; make sure your windshield wipers are in good condition and have clothes ready for rain and wind and temperatures in the low 50's.
+
+### Mexican Insurance
+
+Be sure to buy Mexican insurance *online* before meeting up with the group on Saturday. Most people in our group buy it from Auto Club.  It is highly recommended that you do not enter Mexico w/o Mexican insurance; if you are in an accident, it is likely that the Mexican authorities will not release you through the border until claims are solved.
 
 ## Driving Instructions to Orphanage from Dianne's House
 
@@ -32,7 +68,7 @@ You can see that I've broken this into two stretches:
 
 | **Starting point**                                              | **End Point**                                      |
 |:----------------------------------------------------------------|:---------------------------------------------------|
-| Dianne Lundquist's house, 5141 Chateau Circle, Irvine, CA 92604 | McDonalds at **707 W San Ysidro Blvd, San Ysidro** |
+| Dianne Lundquist's house, 5142 Chateau Circle, Irvine, CA 92604 | McDonalds at **707 W San Ysidro Blvd, San Ysidro** |
 
 So enter **707 W San Ysidro Blvd, San Ysidro** into your map program and proceed.
 
