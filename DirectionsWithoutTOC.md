@@ -2,15 +2,13 @@
 
 ## Before We Start
 
-This document assumes that you do NOT want to use **Google Maps** or **Apple Maps** for navigating to the orphanage but are relying on this document for your navigation.
-
-It is also assuming that you will be keeping this page open open in your browser until the trip is complete.
+This document assumes that you do NOT want to use **Google Maps** or **Apple Maps** for navigating to the orphanage but are relying on this document for your navigation.  This document is available either as a paper file (print this file from your browser) or you are keeping this page open in your browser until the trip is complete.
 
 ### CAUTION
 
 > If your browser loses this page and you have to reload the page, this will require that your cell phone will need to use your cellular service.  Which will only be available if you've enabled cellular coverage in Mexico.
 
-If this is a concern for you, open the [PDF version](https://github.com/oldfartdeveloper/orphanage-trip/blob/master/Driving%20Instructions%20to%20Orphanage%20from%20Dianne's%20House.pdf) and store it on your cellular locally, or get the paper handout from Dianne as a backup.
+If this is a concern for you, then print this file from your browser before starting the trip or store its PDF in your phone's local storage where your can view it offline.
 
 ### Things You Need
 
