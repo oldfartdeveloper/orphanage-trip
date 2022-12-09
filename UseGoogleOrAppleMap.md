@@ -8,7 +8,7 @@
       - [Passport](#passport)
       - [$12 for Tolls](#12-for-tolls)
       - [Rain](#rain)
-    - [Mexican Insurance](#mexican-insurance)
+      - [Mexican Insurance](#mexican-insurance)
   - [Driving Instructions to Orphanage from Dianne's House](#driving-instructions-to-orphanage-from-diannes-house)
     - [Overview](#overview)
     - [Instructions to the Stop Before the Border - McDonalds/Mexican Insurance](#instructions-to-the-stop-before-the-border---mcdonaldsmexican-insurance)
