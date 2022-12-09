@@ -29,6 +29,8 @@
 
 This document assumes that you do NOT want to use **Google Maps** or **Apple Maps** for navigating to the orphanage but are relying on this document for your navigation.  This document is available either as a paper file (print this file from your browser) or you are keeping this page open in your browser until the trip is complete.
 
+If you would like a much shorter document that helps you use Google Map or Apple Map, try this [document](https://github.com/oldfartdeveloper/orphanage-trip/blob/master/UseGoogleOrAppleMap.md) instead.
+
 ## Things You Need
 
 1. **Does everyone in your party have a passport?  If not, now is a good time to go retrieve it!**
