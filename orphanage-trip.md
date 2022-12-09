@@ -2,19 +2,13 @@
 
 ## Before We Start
 
-This document assumes that you do NOT want to use **Google Maps** or **Apple Maps** for navigating to the orphanage but are relying on this document for your navigation.  This document is available either as a paper file (print this file from your browser) or you are keeping this page open in your browser until the trip is complete.
 
-### CAUTION
-
-> If your browser loses this page and you have to reload the page, this will require that your cell phone will need to use your cellular service.  Which will only be available if you've enabled cellular coverage in Mexico.
-
-If this is a concern for you, then print this file from your browser before starting the trip or store its PDF in your phone's local storage where your can view it offline.
 
 ### Things You Need
 
 1. **Does everyone in your party have a passport?  If not, now is a good time to go retrieve it!**
 1. **Do you have $12 for tolls charged by the Ensenada Scenic Highway?  $12 covers the cost in both directions.**
-1. **Be sure to buy Mexican insurance *online* before meeting up with the group on Saturday.** Most people in our group buy it from Auto Club.  It is highly recommended that you do not enter Mexico w/o Mexican insurance; if you are in an accident, it is likely that the Mexican authorities will not release you through the border until claims are solved.
+1. **Be sure to buy Mexican insurance *online* before meeting up with the group on Saturday.** Most people in our group buy it from Auto Club.  It is highly recommended that you do not enter Mexico w/o Mexican insurance; if you are in an accident, it is likely that the Mexican authorities will not release you through the border until claims are resolved.
 
 ## Driving Instructions to Orphanage from Dianne's House
 
@@ -29,8 +23,8 @@ Here's an overview map of the trip:
 
 You can see that I've broken this into two stretches:
 
-* From Dianne's to almost the Border (**McDonalds**) at **707 W San Ysidro Blvd, San Ysidro**.
-* The drive in **México** to the **orphanage**.
+- From Dianne's to almost the Border (**McDonalds**) at **707 W San Ysidro Blvd, San Ysidro**.
+- The drive in **México** to the **orphanage**.
 
 ### Instructions to the Stop Before the Border - McDonalds/Mexican Insurance
 
@@ -42,7 +36,6 @@ Starting point is **Dianne Lundquist's house, 5141 Chateau Circle, Irvine, CA 92
 approximately **87 miles** on **Interstate 5**. *Note: do NOT take the **805**; stay on the **5***.
 1. Exit at **Dairy Mart Rd (Exit 2)**.
     ![Dairy_Mart_Rd Exit](dairy_mart_rd.jpg)
-    <hr />
 1. After exit, turn **left at signal**.
 1. Cross over freeway, then turn **right at signal** at bottom of hill.
     ![West San Ysidro Blvd](turn_right_onto_san_ysidro_blvd.jpg)
@@ -82,7 +75,7 @@ Other observations:
 
 ---
 
-### We're going to stop for customs first
+
 
 We'll drive across the border following the orphanage's red and white van and, in a hundred feet or so, will pull
 into a parking area and stop.
@@ -174,8 +167,8 @@ Reasons to Do So
 
 1. Beautiful night stay at a reasonable rate.
 1. Excellent on-premises restaurant.
-    * Even though the nuns feed us lunch and dinner, it's fun to get together for a meal with the others.
-    * The same restaurant offers an outdoor Sunday brunch right on the beach/bay.
+    - Even though the nuns feed us lunch and dinner, it's fun to get together for a meal with the others.
+    - The same restaurant offers an outdoor Sunday brunch right on the beach/bay.
       I consider this the highlight of the trip; if you haven't done this,
       consider sitting watching the waves and the pelicans in the warm sun with a hot cup of
       coffee in your hands to be a *mandatory* bucket list event.
@@ -228,12 +221,11 @@ the restaurant where the "old-timers" will be waiting to greet you.
 
 ## Return Trip for Fast Pass Holders
 
-### Fast Border Return
+## Fast Border Return
 
-If you stayed Saturday night at **Estero Beach Resort** or ate at
-a nice Mexican restaurant, be sure to ask for a "fast pass" certificate during checkout.
+When checking out, be sure to ask for a "fast pass" certificate.
 You can use this to cut your
-border crossing time from >3 hours to 20 minutes; well worth it.
+border crossing time 50% or more; well worth it.
 
 ### Drive to the US Border from Estero Beach Resort
 
