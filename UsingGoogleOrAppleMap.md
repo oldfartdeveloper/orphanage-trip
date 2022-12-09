@@ -6,18 +6,6 @@ You have chosen the document that assumes you want to use **Google Maps** or **A
 
 However, we will include some turn-by-turn while we're going through Mexico's entry border so that can meet at the desired customs location.
 
-### Alternatives for Using these Instructions
-
-These instructions can be accessed in the following ways:
-
-* As the web page you are reading now.  If you don't have to worry about roaming charges,
-  you can simply leave this page open.
-* As a paper handout; see Dianne.
-* As a PDF file in your smart phone or tablet.  The iPhone, for one, has *iBooks* which
-can hold a PDF file in your smart phone's memory and access it.  Once loaded,
-you don't have to have a live Internet connection.  **You can get the
-PDF from Scott.**
-
 ### Things You Need
 
 1. **Does everyone in your party have a passport?  If not, now is a good time to go retrieve it!**
