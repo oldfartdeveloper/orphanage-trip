@@ -1,26 +1,22 @@
-# 2018 Orphanage Trip Driving Instructions
+# 2022 Orphanage Trip Driving Instructions
 
 ## Before We Start
 
-### Ways to Use these Instructions
+This document assumes that you do NOT want to use **Google Maps** or **Apple Maps** for navigating to the orphanage but are relying on this document for your navigation.
 
-These instructions can be accessed two ways:
+It is also assuming that you will be keeping this page open open in your browser until the trip is complete.
 
-* As the web page you are reading now.  If you don't have to worry about roaming charges,
-  you can simply leave this page open.
-* As a paper handout; see Dianne.
-* As a PDF file in your smart phone or tablet.  The iPhone, for one, has *iBooks* which
-can hold a PDF file in your smart phone's memory and access it.  Once loaded,
-you don't have to have a live Internet connection; this is handy when you want to
-turn off access in México to avoid (expensive!) roaming charges.  **You can get the
-PDF from Scott.**
+### CAUTION
+
+> If your browser loses this page and you have to reload the page, this will require that your cell phone will need to use your cellular service.  Which will only be available if you've enabled cellular coverage in Mexico.
+
+If this is a concern for you, open the [PDF version](https://github.com/oldfartdeveloper/orphanage-trip/blob/master/Driving%20Instructions%20to%20Orphanage%20from%20Dianne's%20House.pdf) and store it on your cellular locally, or get the paper handout from Dianne as a backup.
 
 ### Things You Need
 
 1. **Does everyone in your party have a passport?  If not, now is a good time to go retrieve it!**
 1. **Do you have $12 for tolls charged by the Ensenada Scenic Highway?  $12 covers the cost in both directions.**
-1. Have a means to have Mexican insurance.  Either buy it (from Auto Club for example) before Saturday or be ready
-    to buy it with the group when we get close to the border.
+1. **Be sure to buy Mexican insurance *online* before meeting up with the group on Saturday.** Most people in our group buy it from Auto Club.  It is highly recommended that you do not enter Mexico w/o Mexican insurance; if you are in an accident, it is likely that the Mexican authorities will not release you through the border until claims are solved.
 
 ## Driving Instructions to Orphanage from Dianne's House
 
@@ -28,7 +24,6 @@ PDF from Scott.**
 
 1. Starts from Dianne's house.
 1. Ends at the orphanange in Ensenada.
-1. You should preferably have a navigator reading these instructions.
 
 Here's an overview map of the trip:
 
@@ -87,35 +82,9 @@ Other observations:
 1. Drivers are courteous in México; be courteous to them.  I see much less
     reckless driving in México than in the states.
 
-#### Turn off roaming in your smartphone
+---
 
-Unless you have international roaming, you could be hit with a really nasty charge
-on your next bill.
-
-Besides, if you downloaded this document into your smartphone, you won't need
-internet connectivity anyways.
-
-If you don't know how to stop roaming on your cellphone, then put it
-into *Airplane Mode*.
-
-### First, Mexican insurance for those that need it:
-
-1. Turn left out of parking lot onto **San Ysidro Blvd**.
-1. Turn left at **Park Ave**.  **Sanborn's Mexican Insurance** is on
-    the far left corner of **Park Ave** and **San Ysidro Blvd**.
-    ![Sanborns Mexican Insurance](sanborns_mexican_insurance.jpg)
-1. Park and go in to purchase insurance.
-1. Finally, after everyone has bought insurance, we'll all line up
-    behind the orphanage's red and white van and
-    cross the border.
-1. Follow the van which will turn left back onto **San Ysidro Blvd**.
-1. The van will turn right onto the **805** southbound lane.
-    ![Right turn onto southbound 805](turn_right_onto_southbound_805.jpg)
-1. Follow the van as it crosses the border.
-
-> *Be sure to follow the van; they will know where to stop for customs.*
-
-### We're going to stop for customs first.
+### We're going to stop for customs first
 
 We'll drive across the border following the orphanage's red and white van and, in a hundred feet or so, will pull
 into a parking area and stop.
@@ -126,13 +95,15 @@ into a parking area and stop.
     us in and out of Mexican customs quickly.**
 
 ### Starting the Border Crossing - Inspection (Customs)
+
+1. Follow the nun's van for this section.
 1. Start going through the **border**:
     ![intl_border_800_ft](intl_border_800_ft.jpg)
-1. Use **autos only** lanes:<br />
+1. Use **autos only** lanes:
     ![auto only](autos_only.jpg)
-1. Make a **sharp right** turn:<br />
+1. Make a **sharp right** turn:
     ![sharp right turn](sharp_right.jpg)
-1. Move over into the **right langes** to be ready for the **Playas** turn off:<br />
+1. Move over into the **right langes** to be ready for the **Playas** turn off:
     ![follow_playas_sign](follow_playas_sign.jpg).
 1. The van will pull over to a large open area to the right of the **sharp left** curve in the road.  ***Follow the van***.  The
     van will pull into a structure designated for travelers having something to declare.  Pull into a parking
@@ -155,55 +126,51 @@ You can follow the van if you want, but you are not
 
 ## Driving the Mexican Portion
 
-1. When you leave the customs area, you  will quickly encounter the **Rosarito Ensenada exit** sign; follow it:<br />
+1. When you leave the customs area, you  will quickly encounter the **Rosarito Ensenada exit** sign; follow it:
     ![Rosarito_ensenada_exit](Rosarito_ensenada_exit.jpg)
 1. This will put you on the highway running along the international border.
     Continue for about **2.5 miles**.  Along the way you will drive up a steep hill, the road will
     turn to the left, and you will go down almost as steeply.  Watch for the **Ensenada** turn-off
-    and take the exit:<br />
+    and take the exit:
     ![2nd_playa_ensenada_sign](2nd_playa_ensenada_sign.jpg)
 1. Drive about **58 miles** on the beautiful Ensenada Scenic Highway.
-    You will go through **all 3 tool booths**; here's the last one:<br />
+    You will go through **all 3 tool booths**; here's the last one:
     ![ThirdTollBooth](ThirdTollBooth.jpg)
 1. At this point, the **Scenic Highway** ends and becomes
     a 4-lane highway with signals.  We're on the outskirts of **Ensenada** now;
-    here's an overview map for the remainder of the trip:<br />
+    here's an overview map for the remainder of the trip:
     ![ensenada map](ensenada_overview.jpg)
 
 Continue with the *remaining* instructions:
 
-1. Continue for about **4.5** miles and bear **left** onto **Bahía de La Paz**:<br />
+1. Continue for about **4.5** miles and bear **left** onto **Bahía de La Paz**:
     ![bahia de la paz](bahia_de_la_paz.jpg)
-    <hr />
-1. Continue for **2** miles and **merge** onto **Calle Diez**:<br />
+1. Continue for **2** miles and **merge** onto **Calle Diez**:
     ![decima](decima.jpg)
-    <hr />
-1. Continue for **0.7** miles, then **turn** right onto **Av Riveroll**:<br />
+1. Continue for **0.7** miles, then **turn** right onto **Av Riveroll**:
     ![riveroll](riveroll.jpg)
-    <hr />
-1. Turn left at the first intersection (**Novena**):<br />
+1. Turn left at the first intersection (**Novena**):
     ![novena](novena.jpg)
-    <hr />
-1. Continue for **0.5** miles *continuing past* the **extra** store on the **right**:<br />
+1. Continue for **0.5** miles *continuing past* the **extra** store on the **right**:
     ![extra](extra.jpg)
-    <hr />
-1. Keep going straight.  At the end of the block, turn **right** (**Av Hidalgo**):<br />
+1. Keep going straight.  At the end of the block, turn **right** (**Av Hidalgo**):
     ![hidalgo](hidalgo.jpg)
-    <hr />
-1. Continue past **one block**, then the **orphanage** is on the **right**:<br />
+1. Continue past **one block**, then the **orphanage** is on the **right**:
     ![orphanage](orphanage.jpg)
     The **black metal gate** will be open and you can drive into the courtyard.
 
 The orphanage address is
 
-> Colegio Guadalupe Victoria<br/>
-> Av Hidalgo 787, Obrera<br/>
-> 22830 Ensenada<br/>
-> B.C., Mexico
+```text
+Colegio Guadalupe Victoria
+Av Hidalgo 787, Obrera
+22830 Ensenada
+B.C., Mexico
+```
 
 *Congratulations, you have arrived!*
 
-# Are You Staying at the Estero Beach Resort?
+## Are You Staying at the Estero Beach Resort
 
 Reasons to Do So
 
@@ -222,57 +189,37 @@ Reasons to Do So
     drove past the border agent and were driving on US highways again.
     Without the pass, it will take hours to get across.
 
-# Driving Instructions from Orphanage to Estero Beach Resort
+## Driving Instructions from Orphanage to Estero Beach Resort
 
 Here's an overview map of the trip to **Estero Beach**:
 
 ![overview map](orphanage_2_estero_beach_overview.jpg)
-
-Here's the **orphanage** address that you're starting from:
-
-> Colegio Guadalupe Victoria<br/>
-> Av Hidalgo 787, Obrera<br/>
-> 22830 Ensenada<br/>
-> B.C., Mexico
-
-## Use Google Maps
-
-If you have a cell phone w/ free Mexican roaming service, you can
-click on the following URL or copy and paste it into
-your smart phone's browser:
-
-https://www.google.com/maps/dir/Av+Hidalgo+787,+Obrera,+22830+Ensenada,+B.C.,+Mexico/31.7783925,-116.6135683/@31.8159713,-116.630355,13.18z/data=!4m8!4m7!1m5!1m1!1s0x80d8927852c6c6c7:0xc393f52602284365!2m2!1d-116.6110487!2d31.8655246!1m0
-
-instead of following the route instructions below.
 
 1. It leaves from the orphanage.
 1. It drops you off right next to the Estero Beach hotel's office.
 
 ## Route Instructions
 
-If you cannot use Google maps, here are the instructions to **Estero Beach** that I've
-copied from Google maps:
-
 1. Pull out of the court yard and turn **left** onto the street
     in front of the orphanage (**Av Hildago**)
 1. Turn **right** at the first street you come to (**Calle Octava**)
-1. Turn **right** at the busy boulevard (**Av Reforma**):<br/>
+1. Turn **right** at the busy boulevard (**Av Reforma**):
     ![Av Reforma](Turn_onto_ave_reforma.jpg).
 1. Drive virtually straight for **5.5 miles**.  It turns into **Highway 1**
     so you know you're on the right route.
-1. Look for the Estero Beach Resort sign on the right:<br/>
+1. Look for the Estero Beach Resort sign on the right:
     ![Estero Beach Sign](estero_beach_sign.jpg)
 1. Turn **right** at the next street (**Av Gral Lazaro Cardenas**). After
-    turning, it should look like this:<br/>
+    turning, it should look like this:
     ![Av Gral Lazaro Cardenas](Av__Gral__Lázaro_Cárdenas.jpg)
 1. Drive to the end of the street where it "tee's" into
-    **California y o Tercera**:<br/>
+    **California y o Tercera**:
     ![California_y_o_Tercera](California_y_o_Tercera.jpg)
-1. Turn left, and drive until you get to the Estero Beach Restort **entry gate**:<br/>
+1. Turn left, and drive until you get to the Estero Beach Restort **entry gate**:
     ![Estero Beach Gate](estero_beach_gate.jpg)
 1. Inform the **gate keeper** that you are a guest at the hotel.  He will
     permit you to proceed.  Follow this map to parking and then go into the
-    office:<br/>
+    office:
     ![Estero Office Parking](estero_office_parking.jpg)
 1. After arranging your visit, the staff will direct you to your room.  Be
     sure to inquire about acquiring a **Fast Pass** that will substantially
@@ -281,31 +228,16 @@ copied from Google maps:
 It is a beautiful place.  Walk around a bit; find your room and then go to
 the restaurant where the "old-timers" will be waiting to greet you.
 
-# Return Trip for Fast Pass Holders
+## Return Trip for Fast Pass Holders
 
-## Fast Border Return
+### Fast Border Return
 
 If you stayed Saturday night at **Estero Beach Resort** or ate at
-a nice Mexican restaurant, be sure to ask for a "fast pass" certificate.
+a nice Mexican restaurant, be sure to ask for a "fast pass" certificate during checkout.
 You can use this to cut your
 border crossing time from >3 hours to 20 minutes; well worth it.
 
-### Using Google Maps Directly
-
-If you have a cell phone w/ free Mexican roaming service, you can
-click on the following URL or copy and paste it into
-your smart phone's browser:
-
-https://www.google.com/maps/dir/Unnamed+Road,+Estero+Beach,+22785+Ensenada,+B.C.,+Mexico/32.5364198,-117.0281136/@32.1678603,-117.0850363,10z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x80d89026002c793b:0x4ab09b6cc9e0bcdc!2m2!1d-116.6138712!2d31.7782041!1m0!3e0
-
-1. They take you from the Estero Beach Hotel's parking lot exit to the **fast pass**
-    gate in Tijuana.
-1. The recommended route is exactly the one I have taken; it's worked for me.
-
 ### Drive to the US Border from Estero Beach Resort
-
-If using Google maps in Mexico is not possible for you, I have documented the same
-route directions in the next section.
 
 1. Exit the **Estero Beach Resort** by driving out past the guard gate.
 1. Turn right onto **Av. Lázaro Cárdenas**.
@@ -313,19 +245,19 @@ route directions in the next section.
 1. Drive **straight** up **Highway 1** for **4.0 miles**.
 1. You will drive upon a bridge which you'll recognize by the *yellow railing* on the right
     as shown in the picture.  Take the right offramp at the end of the bridge.
-    In the picture, you can see the cloverleaf descending down to the road below:<br/>
+    In the picture, you can see the cloverleaf descending down to the road below:
     ![Ensenada offramp](ensenada_offramp.jpg)
-1. Go straight through the first cross street (**Av_dr_Pedro_loyola**):<br/>
+1. Go straight through the first cross street (**Av_dr_Pedro_loyola**):
     ![Av Dr Pedro Loyola street](bear_left_at_av_dr_Pedro_loyola.jpg)
 1. Turn right at the next cross street onto **Highway 3**. *Note it is probably not
-    marked*:<br/>
+    marked*:
     ![Bear Right onto Hwy 3](bear_right_turn_on_highway_3.jpg)
 1. Stay on **Highway 3** as it goes through the Ensenada seaport and then runs along
     the beach.  You will drive several miles until you reach a tiny freeway intersection.
-    Bear **left** towards **Tijuana**:<br/>
+    Bear **left** towards **Tijuana**:
     ![Choose Tijuana over Tecate](tijuana_exit_out_of_ensenada.jpg)
 1. Drive until you come to a fork where you choose to drive the scenic **toll** road
-    or the free **libre** road.  Bear **left** onto the scenic toll road:<br/>
+    or the free **libre** road.  Bear **left** onto the scenic toll road:
     ![Choose scenic road](choose_scenic_rd.jpg)
 1. You will arrive at the first toll booth.  Pay and proceed.
 
@@ -334,27 +266,27 @@ route directions in the next section.
 
 1. After the last toll booth, in a
     few miles you will notice you are climbing up a hill next to the **US
-    border fence**:<br/>
+    border fence**:
     ![Border Fence](border_fence.jpg)
 1. You will climb to the top of the hill.
-    As you come down, watch for the **San Diego** offramp:<br/>
+    As you come down, watch for the **San Diego** offramp:
     ![San Diego Exit](san_diego_cloverleaf.jpg)
 1. You will go up a steep hill again, and then notice you are driving parallel
-    to the **US border** (again):<br/>
+    to the **US border** (again):
     ![Border Wall](border_wall.jpg)
 1. Drive 2 miles or so **straight ahead** until the
-    highway starts curving to the right:<br/>
+    highway starts curving to the right:
     ![Highway turns right](road_bears_right.jpg)
 1. *Important!:* Turn **right** on the street where you can see the **Smart & Final**
-    sign: (there is also a **San Diego** exit sign to help you out)<br/>
+    sign: (there is also a **San Diego** exit sign to help you out)
     ![Smart & Final Sign](watch_for_smart_and_final_sign.jpg)
-1. Turn **left** at the **first signal**:<br/>
+1. Turn **left** at the **first signal**:
     ![left signal](left_turn_at_signal_for_fast_pass.jpg)
 1. *Important!:* You will quickly encounter 5 signs and 3 roads to choose from.  Just
-    take the middle one (**Col. Federal**):<br/>
+    take the middle one (**Col. Federal**):
     ![Fast Pass Entrance](fast_pass_entrance.jpg)
 1. You will make a long 360 degree circling up onto a bridge.  Keep
-    going until you can bear left to a gate as shown here:<br/>
+    going until you can bear left to a gate as shown here:
     ![Fast Pass Gate](fast_pass_gate.jpg)
 1. There an official will process your **fast pass**.  It takes less than a minute to process;
     then he will open the gate for you, and your wait to cross the border
