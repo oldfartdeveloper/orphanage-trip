@@ -44,7 +44,7 @@ Do you have $12 for tolls charged by the Ensenada Scenic Highway?  $12 covers th
 
 Rain is forecast during our trip; make sure your windshield wipers are in good condition and have clothes ready for rain and wind and temperatures in the low 50's.
 
-### Mexican Insurance
+#### Mexican Insurance
 
 Be sure to buy Mexican insurance *online* before meeting up with the group on Saturday. Most people in our group buy it from Auto Club.  It is highly recommended that you do not enter Mexico w/o Mexican insurance; if you are in an accident, it is likely that the Mexican authorities will not release you through the border until claims are solved.
 
